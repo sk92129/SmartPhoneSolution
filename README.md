@@ -33,4 +33,16 @@
 * MapBox for both
 * OpenStreetMap 
 
+## Notifications
+* Push Notification
+* APN integrated with Firebase Notification 
+* Categories of Notification
+* Notification tied to actions inside of application
+* Customer Opt-in/out for all or customization
+* Server-side notification is integrated through various internal triggers
+* Sale order purchases, user is moving closer to geopoint
+* Email Notification - Template driven with images and HTML formatting
+* SMS
+
+
 
