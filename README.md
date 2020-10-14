@@ -25,3 +25,12 @@
 ** TLS for server comm
 * Application version (force update)
 * Configurations
+
+## Map and Location Features
+
+* Google Maps in Android
+* Apple Maps in iOS
+* MapBox for both
+* OpenStreetMap 
+
+
