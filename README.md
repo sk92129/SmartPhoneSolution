@@ -45,4 +45,10 @@
 * SMS
 
 
+## Localization
+* Automatically Change on System Language - If system language is not supported, then application will use default language
+* Can manually change to provided languages
+* All server-side responses are driven from response codes and linked to a client-side message table.
+
+
 
