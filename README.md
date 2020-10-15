@@ -11,20 +11,20 @@
 
 
 ## Advanced Features
-* Supports adding credit cards with AVS, Apple Pay, Google Pay
-* Analytics to track user events or actions (sales, view catalog).
-* Crash analysis
-* Uses biometrics and/or PIN for easier confirmation, or re-entry.
-* Does not store or log any sensitive data locally
-* All sensitive data is encrypted with private/public keys 
-* Reviewed by 3rd party auditor
-* Offline mode – Can perform some limited operations in off-line mode
-* Security
-** OAuth2 with KeyCloak
-** Cert Pinning
-** TLS for server comm
-* Application version (force update)
-* Configurations
+### Supports adding credit cards with AVS, Apple Pay, Google Pay
+### Analytics to track user events or actions (sales, view catalog).
+### Crash analysis
+### Uses biometrics and/or PIN for easier confirmation, or re-entry.
+### Does not store or log any sensitive data locally
+### All sensitive data is encrypted with private/public keys 
+### Reviewed by 3rd party auditor
+### Offline mode – Can perform some limited operations in off-line mode
+### Security
+#### OAuth2 with KeyCloak
+#### Cert Pinning
+#### TLS for server comm
+### Application version (force update)
+### Configurations
 
 ## Map and Location Features
 
