@@ -25,6 +25,8 @@
   + TLS for server comm
 * Application version (force update)
 * Configurations
+  + Engineering changes
+  + Content changes in cards
 
 ## Map and Location Features
 
@@ -41,7 +43,8 @@
 * Customer Opt-in/out for all or customization
 * Server-side notification is integrated through various internal triggers
 * Sale order purchases, user is moving closer to geopoint
-* Email Notification - Template driven with images and HTML formatting
+* Email Notification
+  + Template driven with images and HTML formatting
 * SMS
 
 
