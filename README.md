@@ -20,11 +20,9 @@
 * Reviewed by 3rd party auditor
 * Offline mode – Can perform some limited operations in off-line mode
 * Security
- <ul>
-  <li>OAuth2 with KeyCloak</li>
-  <li>Cert Pinning </li>
-  <li> TLS for server comm</li>
-  </ul>
+  + OAuth2 with KeyCloak
+  + Cert Pinning
+  + TLS for server comm
 * Application version (force update)
 * Configurations
 
